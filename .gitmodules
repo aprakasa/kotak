@@ -1,6 +1,3 @@
-[submodule "hybrid-core"]
-	path = hybrid-core
-	url = ../../justintadlock/hybrid-core
 [submodule "library"]
 	path = library
-	url = ../../justintadlock/hybrid-core
+	url = https://github.com/justintadlock/hybrid-core.git
